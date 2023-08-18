@@ -41,7 +41,7 @@ Our bird species classification task, employing the InceptionV3 model combined w
 The InceptionV3 model, with its intricate architecture, coupled with transfer learning, has showcased an unparalleled performance in our task. These results affirm the potential and efficacy of utilizing advanced deep learning architectures in specialized classification tasks.
 
 # Dive Into The Code:
-For a better understanding of our methodology, we encourage you to delve into the provided Jupyter Notebook within this repository. The notebook elucidates each step, from data processing to model evaluation, in detail.
+For a better understanding of our methodology, we encourage you to delve into the provided [Jupyter Notebook](https://github.com/cvoutselas/Predictive-Modelling-Project/blob/main/Project%204%20final%20copy.ipynb) within this repository. The notebook elucidates each step, from data processing to model evaluation, in detail.
 
 Should you have any inquiries or feedback regarding our project, please don't hesitate to reach out. We hope our venture piques interest and catalyzes further exploration in the vibrant domain of deep learning for image classification.
 
