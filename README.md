@@ -1,8 +1,8 @@
 
 # Bird Species Classification using InceptionV3 and Transfer Learning
 # Collaborators:
-- Abdullah
-- Ivan
+- [Abdullah](https://github.com/garatli)
+- [Ivan](https://github.com/vanko2011)
 # Introduction:
 The evolution of deep learning, specifically Convolutional Neural Networks (CNN), has significantly enhanced the capabilities of image classification. This project focuses on leveraging the InceptionV3 architecture, combined with transfer learning, to classify various bird species. By harnessing the strengths of this methodology, we aim to achieve high accuracy in bird species recognition.
 
